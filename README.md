@@ -1,4 +1,6 @@
 # KIBO-ROBOT-PROGRAMMING-CHALLANGE
+![astrobee-nasa-space](https://user-images.githubusercontent.com/67752960/126673195-3e562123-aae0-41ee-ac6e-5794fa9ccb9b.jpg)
+
 
 The Kibo Robot Programming Challenge is an educational program in which students solve various problems by programming free-flying robots (Astrobee and Int-Ball) in the International Space Station (ISS).The Kibo-RPC will inspire students to develop their educational and professional goals to a higher level.
 
